@@ -1,11 +1,11 @@
 package pl.coderslab;
 
-public class TaskManager {
-    git init
+//public class TaskManager {
+  //  git init;
 
-    git add *
+    //git add; *;
 
-    git commit -m "first commit"
+    //git commit -m "first commit";
 
-    git branch -M main
-}
+    //git branch -M main;
+//}
